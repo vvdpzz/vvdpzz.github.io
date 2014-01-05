@@ -1,3 +1,23 @@
-name: Processing by ZhenYu Chen as HTML
 markdown: redcarpet
 pygments: true
+permalink:        pretty
+
+title: 'Processing by ZhenYu Chen as HTML'
+tagline: 'Note'
+description: '爱好机器人、自然语言处理和机器翻译，Rails及iOS开发，JSOI, ACM，, @Yottaa'
+url: http://vvdpzz.github.io
+
+author:
+  name: '陈振宇'
+  url: https://twitter.com/vvdpzz
+
+paginate: 5
+
+github:
+  url: https://github.com/zhenyuchen
+flickr:
+  url: http://www.flickr.com/photos/vvdpzz
+twitter:
+  url: https://twitter.com/vvdpzz
+flickr:
+  url: http://www.flickr.com/photos/vvdpzz
